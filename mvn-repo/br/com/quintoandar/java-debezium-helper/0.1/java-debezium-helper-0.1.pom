@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.quintoandar</groupId>
-  <artifactId>dbz</artifactId>
+  <artifactId>java-debezium-helper</artifactId>
   <version>0.1</version>
   <name>5A Java Debezium Helper</name>
   <description>Utility classes to help handling Debezium messages</description>
