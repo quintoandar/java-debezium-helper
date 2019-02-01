@@ -39,7 +39,7 @@ publishing {
     publications {
         mavenJava(MavenPublication) {
             groupId = 'br.com.quintoandar'
-            artifactId = 'dbz'
+            artifactId = 'java-debezium-helper'
             version = '0.1'
             from components.java
             artifact sourcesJar
